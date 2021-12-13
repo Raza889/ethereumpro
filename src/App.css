@@ -1,0 +1,23 @@
+@import 'antd/dist/antd.css';
+
+.ant-modal-footer{
+  display: none;
+}
+
+.wallet-select-image{
+  height: 40px;
+  width: 40px;
+}
+
+.select-wallet-container{
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+}
+
+.wallet-select-heading{
+  font-size: 16px;
+  margin-left: 15px;
+  font-weight: 600;
+}
+
